@@ -1,0 +1,2 @@
+year,benign_total,malware_total,total_samples,val_samples,train_chunks,epochs,best_val_accuracy,best_val_loss,final_train_loss,final_val_loss,final_val_accuracy,learning_rate,continued_from_checkpoint
+2021,500,500,1000,100,30,10,0.97,0.13334756344556808,0.09482318304833913,0.1305040866136551,0.97,0.0003,True
